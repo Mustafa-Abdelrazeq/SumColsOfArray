@@ -1,1 +1,1 @@
-# SumColsOfArray
+# This Is Some Traning For bigginers 
